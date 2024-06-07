@@ -19,7 +19,7 @@ Reach-me-at: reneghosh7@gmail.com
 - 🤔 I’m looking for help with Leetcode and Data structures
 - 😄 Pronouns: She/Her
 
-<h2 align="left">📚 &nbsp; Languages and Tools <img src = "https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width = 35px></h2>
+<h2 align="left">📚&nbsp; Languages and Tools <img src = "https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width = 35px></h2>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -37,7 +37,8 @@ Reach-me-at: reneghosh7@gmail.com
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-## Metrics
+
+## ⚖️ Metrics ⋆📜 ✩ ☕‧₊˚🎧
 [![Rene's GitHub stats](https://github-readme-stats.vercel.app/api?username=reneryu5)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reneryu5&size_weight=0.5&count_weight=0.5)
 
