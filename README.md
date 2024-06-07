@@ -1,6 +1,7 @@
-## Hi there 👋
+## ✨ Pre-Final Year CS undergrad ✨
 
- ✨ Pre-Final Year CS undergrad ✨
+ 
+ ![](https://komarev.com/ghpvc/?username=reneryu5) 
 
 About me :
 ```yaml
