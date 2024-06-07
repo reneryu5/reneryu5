@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-**reneryu5/reneryu5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨ Pre-Final Year CS undergrad ✨
 
 Here are some ideas to get you started:
 
@@ -10,4 +9,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any Javascript or Python project
 - 🤔 I’m looking for help with Leetcode and Data structures
 - 😄 Pronouns: She/Her
-- 
