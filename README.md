@@ -2,7 +2,7 @@
 
  ✨ Pre-Final Year CS undergrad ✨
 
-Here are some ideas to get you started:
+About me :
 
 - 🔭 I’m currently working on making my own portfolio
 - 🌱 I’m currently learning Reactjs, TypeScript and Nextjs
