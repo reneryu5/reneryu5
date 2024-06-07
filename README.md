@@ -37,4 +37,7 @@ Reach-me-at: reneghosh7@gmail.com
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+## Metrics
+[![Rene's GitHub stats](https://github-readme-stats.vercel.app/api?username=reneryu5)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reneryu5&size_weight=0.5&count_weight=0.5)
 
