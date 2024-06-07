@@ -1,7 +1,6 @@
 ## Hi there 👋
 
  ✨ Pre-Final Year CS undergrad ✨
- <img align = "centre" alt="coding" width="450" src="https://i.imgur.com/7A5ZfPJ.gif">
 
 About me :
 ```yaml
