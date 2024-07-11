@@ -1,4 +1,5 @@
-## ✨ Pre-Final Year CS undergrad ✨
+
+##Rene, here! [![Kiiroitori_wave](https://cdn3.emoji.gg/emojis/9085-kiiroitori-wave.gif)](https://emoji.gg/emoji/9085-kiiroitori-wave)
 
  
  ![](https://komarev.com/ghpvc/?username=reneryu5) 
