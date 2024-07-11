@@ -3,7 +3,8 @@
  
  ![](https://komarev.com/ghpvc/?username=reneryu5) 
 
-About me :
+About me : [![mymelody_heart](https://cdn3.emoji.gg/emojis/1973-mymelody-heart.gif)](https://emoji.gg/emoji/1973-mymelody-heart)
+- 👩🏻‍🎓 Occupation: Student
 ```yaml
 Name: Rene Ghosh
 Occupation: Student
