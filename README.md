@@ -16,8 +16,8 @@ Reach-me-at: reneghosh7@gmail.com
 ```
 
 - 🔭 I’m currently working on strengthening my problem solving
-- 🌱 I’m currently learning Reactjs, TypeScript and Nextjs
-- 👯 I’m looking to collaborate on any Javascript or Python project
+- 🌱 I’m currently learning Backend Development
+- 👯 I’m looking to collaborate on any Javascript or React project
 - 🤔 I’m looking for help with Leetcode and Data structures
 - 😄 Pronouns: She/Her
 
